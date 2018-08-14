@@ -6,6 +6,6 @@ Chat theme - based on [Stack Chat Dark + Modifications](https://userstyles.org/s
 
 Tiny addon - clicking on the SE logo brings you to the main mage (as the site banner is removed): [install](https://raw.githubusercontent.com/dzaima/PPCGDark/master/quickMain.user.js)
 
-And of course, obligatory dark scrollbars: [install](https://raw.githubusercontent.com/dzaima/PPCGDark/darkScrollbars.user.css)
+And of course, obligatory dark scrollbars: [install](https://raw.githubusercontent.com/dzaima/PPCGDark/master/darkScrollbars.user.css)
 
 Works in conjunction with [the PPCG design](https://github.com/vihanb/PPCG-Design)
