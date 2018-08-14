@@ -1,0 +1,22 @@
+/* ==UserStyle==
+@name        Dark scrollbars
+@namespace   dzaima
+@version     1
+@homepageURL https://github.com/dzaima/PPCGDark
+@updateURL   https://raw.githubusercontent.com/dzaima/PPCGDark/darkScrollbars.user.css
+@author      dzaima
+==/UserStyle== */
+
+::-webkit-scrollbar-button, ::-webkit-scrollbar-track {
+  display:none;
+}
+::-webkit-scrollbar-thumb {
+  background-color:#666;
+}
+::-webkit-scrollbar {
+  background-color:#333;
+}
+
+::-webkit-scrollbar-thumb {
+  border: none;
+}
