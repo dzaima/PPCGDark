@@ -750,6 +750,11 @@ header.site-header {
   background-color: #0000 !important;
   display:none;
 }
+
+.tag-popup > .-container {
+  background-color: #333 !important;
+}
+
 }
 
 @-moz-document regexp("https?://codegolf.(meta\\.)?stackexchange.com.*"), regexp("https?://chat\\.stackexchange\\.com.*") {
