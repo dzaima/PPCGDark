@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        SE Dark
 @namespace   StylishThemes
-@version     2.10.22
+@version     12.0.1
 @homepageURL https://github.com/dzaima/PPCGDark
 @updateURL   https://raw.githubusercontent.com/dzaima/PPCGDark/master/PPCGDark.user.css
 @license     CC-BY-SA-4.0
@@ -753,6 +753,10 @@ header.site-header {
 
 .tag-popup > .-container {
   background-color: #333 !important;
+}
+
+a { /* underscores are ugly */
+  text-decoration: none !important;
 }
 
 }
