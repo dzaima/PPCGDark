@@ -750,6 +750,10 @@ header.site-header {
   background-color: #0000 !important;
   display:none;
 }
+.new-contributor-indicator {
+  background-color: #333;
+  color: #D2D2D2 !important;
+}
 
 .tag-popup > .-container {
   background-color: #333 !important;
