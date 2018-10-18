@@ -748,20 +748,39 @@ background-position: left top !important;
 /* remove the annoyingly huge header */
 header.site-header {
   background-color: #0000 !important;
-  display:none;
-}
-.new-contributor-indicator {
-  background-color: #333;
-  color: #D2D2D2 !important;
-}
+    display:none;
+  }
+  .new-contributor-indicator {
+    background-color: #333;
+    color: #D2D2D2 !important;
+  }
 
-.tag-popup > .-container {
-  background-color: #333 !important;
-}
+  .tag-popup > .-container {
+    background-color: #333 !important;
+  }
 
-a { /* underscores are ugly */
-  text-decoration: none !important;
-}
+  a { /* underscores are ugly */
+    text-decoration: none !important;
+  }
+  
+  /* new design fixes */
+  .profile-avatar {
+    box-shadow: none !important;
+  }
+  
+  .bg-black-025 {
+    background-color: #222 !important;
+    border-color: #333 !important;
+  }
+  
+  .fc-medium {
+    color: #d2d2d2 !important;
+  }
+  
+  .badge-tag {
+    background-color: #0000 !important;
+    border: none !important;
+  }
 
 }
 
