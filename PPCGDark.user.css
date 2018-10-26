@@ -781,6 +781,10 @@ header.site-header {
     background-color: #0000 !important;
     border: none !important;
   }
+  /* color unupoveted things better */
+  .comment-up-off > svg, svg.svg-icon.iconFlag {
+    color: #80a080 !important;
+  }
 
 }
 
