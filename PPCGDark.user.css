@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        SE Dark
 @namespace   StylishThemes
-@version     12.0.1
+@version     12.0.2
 @homepageURL https://github.com/dzaima/PPCGDark
 @updateURL   https://raw.githubusercontent.com/dzaima/PPCGDark/master/PPCGDark.user.css
 @license     CC-BY-SA-4.0
@@ -229,7 +229,7 @@ background-position: left top !important;
   .topbar.newheader, .network-items>a, .icon-help, .icon-help:hover {
     background-color: #222 !important;
   }
-  .calendar, .calendar-small, .mspark .mspbar, #promo-box, #input-area .input-hint,
+  .calendar, .calendar-small, #promo-box, #input-area .input-hint,
   .tour-page .feature-selection li a.triggered, .ob-docs,
   .topbar.newheader .topbar-wrapper .topbar-links .search-container #search input[name="q"],
   .mainbar.discussion .discussion-item, #input-area {
