@@ -8,4 +8,4 @@ Tiny addon - clicking on the SE logo brings you to the main mage (as the site ba
 
 And of course, obligatory dark scrollbars: [install](https://raw.githubusercontent.com/dzaima/PPCGDark/master/darkScrollbars.user.css) (webkit-specific)
 
-Works in conjunction with [the PPCG design](https://github.com/vihanb/PPCG-Design)
+Works in conjunction with [the PPCG design](https://github.com/vihanb/PPCG-Design), should also work together with [ATaco's userscripts](https://github.com/TehFlaminTaco/TacosUserscripts).
