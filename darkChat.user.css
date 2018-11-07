@@ -219,7 +219,7 @@ Mostly based on  which is based on https://github.com/fredley/Porkchat/blob/mast
     background-image:url('https://raw.githubusercontent.com/fredley/Porkchat/cd7f2a5a/src/sprites.png') !important;
   }
   .monologue .tiny-signature .username{
-    height:10px !important;  
+    height:12px !important;
   }
   .wmd-prompt-dialog{
     background-color: #333 !important;
