@@ -785,7 +785,10 @@ header.site-header {
   .comment-up-off > svg, svg.svg-icon.iconFlag {
     color: #80a080 !important;
   }
-
+  
+  body.unified-theme * {
+    --theme-body-font-color: #fff !important;
+  }
 }
 
 @-moz-document regexp("https?://codegolf.(meta\\.)?stackexchange.com.*"), regexp("https?://chat\\.stackexchange\\.com.*") {
